@@ -11,8 +11,8 @@ So far this collection is made up of:
 
 [CSS Modules Subcomponents And Modifiers Collection](https://github.com/bjankord/CSS-Modules-Subcomponents-And-Modifiers-Collection) - A collection of common CSS module class names.
 
-[Base.css](https://github.com/bjankord/Base.css) - A group of base styles intended for use with progressive enhancement
+[Base.css](https://github.com/bjankord/Base.css) - A set of base styles used as a foundation for modular architected CSS
 
 [Utilities.css](https://github.com/bjankord/Utilities.css) - A collection of common utility styles
 
-[Style Guide Boilerplate](https://github.com/bjankord/Style-Guide-Boilerplate) - A ready to use web style guide
+[Style Guide Boilerplate](http://bjankord.github.io/Style-Guide-Boilerplate/) - A ready to use web style guide/pattern library
