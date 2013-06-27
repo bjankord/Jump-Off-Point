@@ -1,7 +1,7 @@
 Jump Off Point
 ==============
 
-This collection of tools combine to form a boilplate that I use as a jump off point for new projects.
+This collection of tools combine to form a boilplate that I use as a jumping off point for new projects.
 
 So far this collection is made up of:
 
